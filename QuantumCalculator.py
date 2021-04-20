@@ -100,7 +100,6 @@ class QVector(object):
         self.keymap = np.array(self.keymap)
 
 
-
 test = QVector(1/2,1/2)
 print("\n#######################\n")
 print("This program will automatically create a Clesch-Gordan Coefficiant table for you")
